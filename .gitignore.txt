@@ -1,0 +1,9 @@
+ApplicationESP/*.iml
+ApplicationESP/.gradle
+ApplicationESP/local.properties
+ApplicationESP/.idea/workspace.xml
+ApplicationESP/.idea/libraries
+ApplicationESP/.DS_Store
+ApplicationESP/build
+ApplicationESP/captures
+ApplicationESP/.externalNativeBuild
