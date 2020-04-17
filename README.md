@@ -13,7 +13,7 @@ which will be displayed on a led screen next to the door.
 <br/> <img src="MobileInterface.png"/>
 
 ## Components used for this project: 
-<br/> <img src="circuit.png" />
+<br/> <img src="circuit.jpg" />
 * Arduino board
 * ESP8266 wifi module
 * Push button 
