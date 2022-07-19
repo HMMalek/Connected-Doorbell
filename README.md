@@ -4,6 +4,7 @@ It enables you to recieve notifications on your phone when someone rings the doo
 which will be displayed on a led screen next to the door.
 
 ## Code structure
+TBD
 
 ### The arduino script
 * Displaying a welcome message to the screen when launched
